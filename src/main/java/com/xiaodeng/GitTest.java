@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("小邓3");
         System.out.println("小邓4");
         System.out.println("小邓5");
+        System.out.println("小邓6");
     }
 }
